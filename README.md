@@ -14,7 +14,8 @@ Nothing fancy really, just a screen with:
 
 ## ScreenShot
 
-
+<img src="https://github.com/user-attachments/assets/c2f6ffd0-465c-44ef-839c-bbc0b524f882" width="375" height="667" />
+  
 ## Getting Started
 
 1. Clone this repo
